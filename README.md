@@ -2,6 +2,7 @@
 Repository of Viper lineups compiled across all maps from VALORANT.
 
 ## Recently added
+* Breeze lineups
 * Bind lineups
 
 ## To-do
